@@ -1,8 +1,4 @@
-# STM8S_Multi-Node
-
-　　本工程基于EWSTM8开发环境、STM8S标准外设库创建的一个多个节点工程。
-
-# 一、工程说明
+﻿一、工程说明
     1、时间：    2018年08月16日
     2、作者：    strongerHuang
     3、开发环境：EWSTM8 V3.10
@@ -10,7 +6,7 @@
     5、工程版本：V1.0.0
     6、目标芯片：STM8S/AF系列芯片
 
-# 二、提示
+二、提示：
     本工程适合STM8S和STM8AF系列芯片，包含：
     STM8S208、STM8S207、STM8S007、STM8AF52Ax、STM8AF62Ax、STM8S105、
     STM8S005、STM8AF626x、STM8AF622x、STM8S103、STM8S003、STM8S903、STM8S001
@@ -22,5 +18,5 @@
 
     若不知道如何修改，关注微信公众号【EmbeddedDevelop】，回复【EWSTM8修改型号】，查看具体操作流程。
 
-# 三、帮助
+三、帮助
     微信搜索公众号：EmbeddedDevelop, 关注, 查看更多精彩内容。
